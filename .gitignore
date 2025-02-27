@@ -1,0 +1,2 @@
+# Python 
+__pycache__/  *.py[cod]  *.pyo  *.pyd  # Virtual Environments  venv/  venvn/  # Models and Checkpoints  checkpoints/  fine_tuned_skill_model/  # System Files  .DS_Store  Thumbs.db 
